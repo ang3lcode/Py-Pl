@@ -48,4 +48,4 @@ def calculator( ):
         else:
             print("Opción no válida, por intenta de nuevo")
 
-calculator()        
+calculator()
