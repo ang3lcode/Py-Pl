@@ -35,7 +35,6 @@ p3 = Persona("Ana", 28)
 #print(repr(p2))  # Output: Persona(nombre='Luis', edad=35)
 
 # __eq__: Comparación de igualdad
-
 #print(p1 == p3)  # Output: True (son iguales en nombre y edad)
 
 # __lt__: Comparación "menor que" por edad
